@@ -6,10 +6,9 @@ Some fun facts about me:
 1. I studied abroad last semester.
 2. I love star wars
 3. I've torn my meniscus
-
+ 
 ![picture of me!](victor.jpeg)
 
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
-[Link to Assignment 2](assignments/assignment2.md)
+[Assignment 1](assignments/Assignment_1_6.104.pdf)
