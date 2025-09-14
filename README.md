@@ -12,3 +12,4 @@ Some fun facts about me:
 
 # Table of Contents
 [Assignment 1](assignments/Assignment_1_6.104.pdf)
+[Problem Set 1](assignments/Problem_Set_1_6104.pdf)
