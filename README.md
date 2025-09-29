@@ -13,4 +13,5 @@ Some fun facts about me:
 # Table of Contents
 [Assignment 1](assignments/Assignment_1_6.104.pdf) \
 [Problem Set 1](assignments/Problem_Set_1_6104.pdf) \
-[Problem Set 2](assignments/Problem_Set_2_6104.pdf)
+[Problem Set 2](assignments/Problem_Set_2_6104.pdf) \
+[Assignment 2](assignments/Assignment_2_6104.pdf) [UI Design](assignments/Initial_Designs.pdf)
